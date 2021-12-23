@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Garv-Patel
-- 👀 I’m interested in embedded systems and Mechatronics systems 
-- 🌱 I’m currently learning embedded C and ARM microcontrollers
+- :man: Hi, I’m @Garv-Patel
+- 👀 I’m interested in **Embedded Systems** and **Mechatronics** 
+- 🌱 I’m currently learning **Embedded C** and **ARM Microcontrollers**
 
 <!---
 Garv-Patel/Garv-Patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
